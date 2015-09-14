@@ -1,0 +1,5 @@
+How would you explain the importance of organizing one's thoughts and not proceeding in a haphazard manner? 
+It's important because it's better to organize your code so that way it'll be in order.
+
+Today you will finish creating an image of your Processing art overlaid with code.
+So that way we can turn it in.
