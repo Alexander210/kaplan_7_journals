@@ -1,0 +1,2 @@
+What is an IDE? What is it good for?
+An Integrated Development Environment(IDE) is a software application that normally consists of a source code editor, build automation tools and a debugger.
