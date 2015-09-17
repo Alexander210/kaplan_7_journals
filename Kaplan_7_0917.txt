@@ -1,0 +1,10 @@
+What are the five different Java data types? What are they used for?
+1.Int - Integer, whole number, no decimal. Ex: 4,3,2,-1,-2
+
+2.Float - 32bit
+
+3.Short, long, double - 16, 64, 64 - These are for decimal modes
+
+4.Char - Character "A" "I" ";"
+
+5.String - A collection of chars "abcdefghijklmnopqrstuvwxyz"
