@@ -1,0 +1,50 @@
+Discuss with a partner and come up with a definition and an example
+ for each of the terms below ( and write them down ):
+
+Copyright:Grants the creator exclusive rights for its use and distribution, and
+grants protection to his work.
+
+Copyleft:Can be modified for it's use, and is not protected.
+
+Fair Use:People can use it for criticism, news reporting, teaching and
+research without need for permission/payment to the copyright holder.
+
+Free Speech:To express beliefs and ideas without unwarranted government restriction.
+
+Free Software:The programs and other operating information used by a computer.
+
+Freeware:Software the is available free of charge.
+
+Public Domain:The state of beloning or being available to the public as a whole, 
+and therefore not subject to copyright.
+
+File-sharing:The practice of or ability to transmit files from one computer to 
+another over a network or the internet.
+
+Piracy:The practice of stealing work of the creators and selling it on other websites, 
+while the creators make no profit from this.
+
+Plagiarism:The practice of taking someone else's work, 
+and passing them off as their own work.
+
+Infringement:Breaking the terms of a law, aggrement, or a violation.
+
+Proprietary:Being an owner, or having an ownership.
+
+Open Source:The original source code can be made freely, and could be redistributed/modified.
+
+GNU GPL: This lists terms and conditions for copying,modifying and 
+distributing free software.
+
+License:To allow authority to own/use something, and to allow activity to take place.
+
+MIT License:It allows free software license, and permits reuse with 
+proprietary software for all copies of the software.
+
+Apache License:This License lets the user of the software to use it for any purpose, 
+distribute it, modify it, and can distribute modified versions of the software.
+
+EULA: This means End User License Agreement.
+
+Creative Commons: This isa non-profit organization devoted to expand 
+its range of creative works avaliable for others to build legally and to share.
