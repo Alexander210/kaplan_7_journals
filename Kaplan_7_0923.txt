@@ -1,0 +1,18 @@
+The GNU General Public License
+
+(Where) Have you seen this license before?
+When using free software.
+
+What is it saying?
+This guaranteeses users the freedom to run,study,share, and modify the 
+software.
+
+What implications does this license have for the author? For the User?
+The author can be fine with with the users modifying, and sometimes 
+distributing it.
+
+When would you use this license?
+You only use it when it's compatible with the GNU GPL for the GNU software.
+
+When would you not use this license?
+When it's not compatible with the GNU GPL for the GNU software
