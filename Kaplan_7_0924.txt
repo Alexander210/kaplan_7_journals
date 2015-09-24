@@ -1,0 +1,10 @@
+Why did Steve Ballmer call the GPL a virus?
+He said that the way the license is written, if you use any 
+open-source software, you have to make the rest of your software open source.
+
+What is the relationship / difference between open source and 
+proprietary software?
+Free software is a social movement, and non free is a suboptimal soulution.
+
+What are the differences between the GPL and the MIT license?
+The GPL is more restrictive than the MIT license.
