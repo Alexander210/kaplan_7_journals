@@ -1,0 +1,33 @@
+For the journal today, define the following :
+
+Paid license:A certificate of someone who published a software.
+
+Shareware: This is software that is free of charge, and can be distributed 
+for evluation,and a free may be requested for continued use.
+
+Trailware: This is computer software that can be used free of charge for a 
+limited evaluation period.
+
+Ad-ware: This is software that automatically displays or downloads advertising 
+material that is often unwanted when a user is online.
+
+Crippleware:This is software that is distributed with reduced functionality 
+with a view to attracting payment for a fully functional version.
+
+Freemium:This is a pricing strategy by a product/service is provided 
+free of charge, but money is charged for proprietary features,functionality, 
+or virtual goods.
+
+FreeWare (vs Free-OpenSource):Foss is considered as both free software and 
+open source software.
+
+Richard Stallman: He was a software freedom activist and computer programmer. 
+He pioneered the concept of copyleft, and is the main author of the free 
+software licenses.
+
+Lawrence Lessig: He supports free software and open spectrum, and also 
+supports net neutrality.
+
+Eben Moglen:He says the free software is a fundamental requirement for a democratic and 
+free society in which we are surrounded by and dependent upon technical 
+devices.
