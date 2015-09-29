@@ -1,0 +1,5 @@
+What are methods? What are they good for?
+Methods are functions that are used in Java.
+
+How can you use methods to find primes?
+You can create a method to check for a number.
