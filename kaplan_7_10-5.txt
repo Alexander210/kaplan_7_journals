@@ -1,0 +1,4 @@
+What are CODE COMMENTS? What are they good for?
+
+Code comments are part of a code that helps the designer and the user to 
+figure out what is what, which section is which, and what it is.
