@@ -1,0 +1,11 @@
+What are methods?
+A method is an action that you want to repeat frequently.
+
+What are classes?
+These are like blueprints, from which objects are created.
+
+What is an instance?
+This means you're creating the class, or creating an instance.
+
+What are class methods?
+They are called a class rather than a instance.
