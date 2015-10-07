@@ -1,0 +1,9 @@
+What is a Java class?
+It specifies the design of an object.
+
+What might a Java class be for JavaFX?
+This creates an application thread for running the application start method.
+
+What might be a method for class?
+They provide the interface that other classes use to access and 
+modify the data properties of an object.
