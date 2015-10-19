@@ -1,0 +1,17 @@
+You should be almost done with your methods. Are you? Why or why not?
+I am almost done with my project, I have to finish my essay, and finish 
+adding in my methods.
+
+This is a real question -- describe what you did the days we went over art methods.
+What did you write? type? What were your thoughts?
+I made a house with a blue background with the sun, a tree and a cloud.
+
+Did you notice that art method code was shared in the journals
+(as proclaimed with very large text)? Why or why not?
+I noticed it.
+
+Have you examined the sample code on github? Why or why not?
+Yes, it looks familar.
+
+Write a sample method for making a sequence of red squares on the canvas.
+
