@@ -1,0 +1,2 @@
+What is the purpose of the code art that you create?
+To help us learn how to use methods, and create art with the computer.
