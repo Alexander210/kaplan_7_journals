@@ -1,0 +1,6 @@
+What is the purpose of the code art that you create?
+It lets us practice our coding skill, and learning how JavaFX works.
+
+What is the purpose of creating with code to learn?
+The purpose of this is to help us learn better in the future, and also 
+allowing us to practice, and learning from our mistakes.
