@@ -1,0 +1,14 @@
+What is a method?
+   It's a collection of statements that perform an operation when together.
+
+Which methods did you use, and how did you use them in your guessing 
+game program?
+   I used "private static void playthegame() {" to pick a number 1 through 35.
+
+What is a while loop?
+   It repeats statements when given a condition.
+
+How did you use a while loop, boolean, and counter in your guessing game?
+   I used a while loop to ask the users for their name, a boolean to detect
+whether the user won or loss, and a counter to alert the user how many 
+guesses they have left.
