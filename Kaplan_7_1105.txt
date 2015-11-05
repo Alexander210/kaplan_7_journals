@@ -1,0 +1,11 @@
+What are strings?
+A string is like a data type, or turned into a array or words.
+
+What are they good for?
+They're used as an alphabet, and appear in a source code.
+
+What are some string methods?
+There are string methods such as "public static void main(String[] args) {
+
+How do we identify string methods?
+When the user types something, such as a username.
