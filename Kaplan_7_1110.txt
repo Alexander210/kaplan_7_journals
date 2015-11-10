@@ -1,0 +1,9 @@
+In your game, how can you track what challenges the player has solved?
+You can track challenges with things such as "System.out.println".
+
+How can you track HP?
+For tracking HP, I'll add a health counter inside.
+
+Items?
+I'll add in another counter, different from the HP counter, saying how many of
+"items" you have.
