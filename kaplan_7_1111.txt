@@ -1,0 +1,9 @@
+In your game, what challenges must your player solve?
+They have to do several things, such as neutralizing guards, and stealing
+things.
+
+How will you specifically track whether they have been solved?
+There will be a counter on what they've done.
+
+Provide variable names and types. 
+What they've picked up, such as keycards and money.
