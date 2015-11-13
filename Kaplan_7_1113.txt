@@ -1,0 +1,7 @@
+How will you use while loops in your game? Why?
+To make something repeat, like if user keeps on trying to pick up a keycard
+to have multiple keycards.
+
+How will you use methods in your game? Why?
+I'll use methods to show that the user is in a certain area, like if they're
+in the area outside, or in a house.
