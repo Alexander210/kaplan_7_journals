@@ -1,0 +1,7 @@
+How will you use methods in your game? Why?
+I'll use to methods to show what room you're in, so when you start the game, 
+you'll be in the starting area method.
+
+What values will you pass to them?
+You can use values like booleans, like if you want to interact with a bag, 
+you can only use it once.
