@@ -1,0 +1,9 @@
+Briefly describe what you could have done to successfully complete your game?
+
+I wasn't really asking for help, and trying to do things on my own, when
+I could've done it faster.
+
+Describe your problem solving / trouble shooting process.
+
+I was comparing to the original slick example, and using the hints to
+help me with my code.
