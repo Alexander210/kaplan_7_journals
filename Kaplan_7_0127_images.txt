@@ -1,0 +1,10 @@
+How do you add an image to a slick game?
+In a class, you would put something like
+Image healthpotion = new Image(
+		"res/health_potion.png");
+
+Where is the image drawn? [What code? Be specific.]
+In the main code, it'll be something like this
+	for (Item i : stuff) {
+		if (i.isvisible) {
+			i.currentImage.draw(i.x, i.y);
