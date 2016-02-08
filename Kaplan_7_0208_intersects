@@ -1,0 +1,5 @@
+How would one check to see whether weapons damages enemies or objects 
+in Slick?
+
+If a weapon/orb intersects an enemy, it would damage them, for example
+if (orb1.hitbox.intersects(e.rect)) {
