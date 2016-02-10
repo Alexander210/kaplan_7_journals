@@ -1,0 +1,23 @@
+Make a list of ten problems (e.g., FAQs) you have faced when adding 
+orbs to your game.
+
+1. How to get my orb to appear.
+if (Alex.isIsVisible()) {
+	Alex.orbipic.draw(Alex.getX(), Alex.getY());
+2. How to make it face the right direction.
+
+3. Why my width / height weren't being used.
+private int x, y, width, height;
+4. How to get direction and timeExists to work.
+I had to add *private int timeExists;* *private int direction;*
+5. My hitbox wasn't working.
+
+6. How get my game working again when I added orbs.
+
+7. Why my game kept on crashing everytime I tried to fire an orb.
+
+8. How to add modify my orb to make it do different things.
+
+9. How to get my enemies to work with them.
+
+10. How to get my orb to work.
