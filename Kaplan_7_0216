@@ -1,0 +1,6 @@
+How was an array used in your Slick game?
+Arrays are used to declare methods, such as enemies and items, making move,
+have pictures, and putting them in certain points of the map.
+
+What might be another use for an array in a different program?
+For things such as a inventory, and music possibly.
