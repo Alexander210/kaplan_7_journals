@@ -1,0 +1,47 @@
+Explain this code:
+public Animation Playeranime, up, down, left, right, sprite, wait;
+	public Player() throws SlickExceptio {
+		SpriteSheet runningSS = new Sprite Sheet {
+			"res/ogrespritesheet.png", 64, 64, 0);
+		up = new Animation();
+		up.setAutoUpdate(true);
+		up.addFrame(runningSS.getSprite(0, 8), 330);
+		up.addFrame(runningSS.getSprite(1, 8), 330);
+		up.addFrame(runningSS.getSprite(2, 8), 330);
+		up.addFrame(runningSS.getSprite(3, 8), 330);
+		up.addFrame(runningSS.getSprite(4, 8), 330);
+		up.addFrame(runningSS.getSprite(5, 8), 330);
+		up.addFrame(runningSS.getSprite(6, 8), 330);
+		up.addFrame(runningSS.getSprite(7, 8), 330);
+		up.addFrame(runningSS.getSprite(8, 8), 330);
+^--- This code is giving this sprite sheet a running animation when you go 
+upwards.
+
+Why would it be unrealistic / unproductive  to memorize Slick syntax - what are the skills we were trying to practice?
+
+
+What is an array?
+An array can hold a fixed number of values of a single type.
+
+How do you make an array? Give an example.
+
+
+What is an ArrayList?
+An array that can create objects, such as items and enemies.
+
+How do you make an arraylist?
+public ArrayList<Enemy> Enemy = new ArrayList();
+
+
+What are three useful arraylist methods that you identified?
+Healing, win conditions, and enemy arraylists.
+
+What is the difference between an array and an arraylist?
+
+
+How could we make a health counter for an avatar?
+        Player.health -= counter / 1000;
+        if (Player.health <= 0) {
+            makevisible();
+            sbg.enterState(2, new FadeOutTransition(Color.black), new FadeInTransition(Color.black));
+        }
