@@ -1,0 +1,31 @@
+What is assembly?
+It's a high level language that is perfered for common applications.
+
+What is it good for?
+It gives direct and complete controll over system hardware, and only contains
+the code to perform the given task.
+
+How is assembly different than Java?
+It's more difficult than learning Java, it's not portable, and is a tedious,
+error-prone process.
+
+What are differences between high level and low level languages?
+High Level :
+1.Program development is faster
+2.Portable
+3.Program maintenance is easier
+
+Low Level:
+1.Not portable
+2.Error-Prone Process
+3.Not natural for common applications
+
+Which type is java? How do you know, i.e., what characteristics does it have
+of that language type?
+It's a high level, since it can be developed quicker.
+
+
+Which type is Assembly? How do you know, i.e., what characteristics does it 
+have of that langauge type?
+It's not a high level since it can't be portable, and it isn't a natural
+preference.
