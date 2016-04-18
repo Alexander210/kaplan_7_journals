@@ -1,0 +1,19 @@
+For what computational reason did you type elf64?
+It made it executable by all users.
+
+Why did you use ld?
+It's a compiler.
+
+Why did you not have to use chmod to make sample executable?
+
+
+	db	"Alexander Kaplan", 10
+
+What problem did you have to solve to get it to work?
+
+
+Is assembly 'quick and easy'? Why or why not?
+
+
+What does 'low level' actually mean with regards to programming languages?
+It's closer to the computer, and reads more like it.
