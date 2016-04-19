@@ -1,0 +1,7 @@
+What similarities are there between Human Resource Machine and Assembly?
+Both have jumps, so they can go forwards, or do the same steps again by 
+going backwards. There is also a Syntax, where it shows you where it's 
+jumping to, just like in HRM.
+
+What differences are there between Human Resource Machine and Assembly?
+Both have addition and subtraction, but they're not exactly the same thing.
