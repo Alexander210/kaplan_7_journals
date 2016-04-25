@@ -1,0 +1,19 @@
+We will have an end of the year assessment.
+
+What are 10 concepts you believe will be covered on the test. Why?
+
+1.Loops - Because we should know if something will repeat.
+2.Booleans - For hitpoints if we decide to add or deduct based on 
+what we're doing.
+3.System.out.println - If we ever want a way to communicate to eachother.
+4.Assembly - A lesser language that we should know for lesser programs.
+5.Methods - It's parts of a program.
+6.public int x ( or y); - This will show coordinates on where a object 
+will be.  
+7.gc.Fill,gc.Stroke,gc.LineWidth - These are used to make shapes, like what
+we did in MethodMaddness.
+8.if(counter == 0){ - This shows how many tries or how many more times we can 
+do a certain thing.
+9.static boolean (Command) - These are used for as like objects or 
+interactions.
+10.
