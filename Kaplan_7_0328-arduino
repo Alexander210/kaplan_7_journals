@@ -1,0 +1,31 @@
+What differences and similarites have you noticed?
+1.There is no public class needed for Arduino.
+
+2.Instead of using "public Item healthpotion;" Arduino uses 
+"#define Note_C2 64".
+
+3.They both use booleans,int's , and loops.
+
+What code adaptations have you made?
+We've changed the different frequencies with the buttons.
+
+What is required for a circuit?
+Wires to connect objects to one another with the #define, the proper LED's,
+Buzzers if you want to make sound, and a LED screen if you want to project
+something.
+
+How are programs compiled with Arduino?
+Games like the one featured with Arduino "Simon Says", are pretty similar
+with Arduino, they can also work and be made with other games.
+
+Describe the projects you have completed this/last week and what you've learned
+from them.
+We completed most of the projects, like the LCD screen project, Buzzer project,
+etc. We learned quite a bit from them, like why the cord placements matter,and 
+the LED lights as well, (Like positive to negative).
+
+Describe your project and the code adaptations you will have to make.
+Our project is based off on a Piano, and to do this we'll make it to be 
+played instantly without having to press a button to start it like a game.
+We'll even have to change the different frequencies so it'll have different
+notes with it.
