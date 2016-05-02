@@ -1,0 +1,35 @@
+What is an array?
+Arrays hold a fixed number of values for a single type.
+
+How does one make a simple array of Strings?
+public ArrayList<Enemy> Enemy = new ArrayList();
+
+What is the syntax for a 2-D array?
+
+
+What is the syntax for a 3-D array?
+
+
+How does one change the value for the third value in a one dimensional 
+array?
+
+
+What is the syntax for a while loop?
+while(right == false && counter > 0)
+
+Why use while loops in your game?
+So it can repeat the same action if it's needed.
+
+How will you call your game in main?
+
+
+Why was it recommended that you use .toLowerCase() with your scanner
+input?
+
+
+You should use different methods when moving the protagonist and to 
+check for intersections. How? Why?
+
+
+What values will you pass across methods? How? Why?
+
