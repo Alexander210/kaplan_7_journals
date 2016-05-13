@@ -1,0 +1,23 @@
+The Slick assignment was intended to gently familiarize you with 2-D arrays.
+Some students recognized the 2-D arrays from Slick and previous journals,other
+students had no recollection. Which were you? Why?
+It look somewhat similar, but I still have just as much trouble with this 
+just like our previous assignment.
+ 
+Note - attributing the environment is not pragmatic - as students experienced
+the same environment (though they might have experienced it differently)
+
+Make a list of ten questions related to the Array assignments pt 1 and 2 that 
+you predict will be on the semester exam. E.g., object initialization, class 
+constructors, creating and changing arrays, etc.
+
+1.What is an array?
+2.Why use while loops in your game?
+3.What is the syntax for a 2D or 3D array?
+4.How do we call our game in main?
+5.What is the syntax for a while loop?
+6.Why is it recommended to use .toLowerCase(") with scanner input.
+7.How do yo uchange the value for a third value in a one dimensional array?
+8.How would you make a simple array of Strings?
+9.What values should we pass across methods?
+10.How should we use different methods?
