@@ -1,0 +1,31 @@
+Given the class Ogre:
+1. Provide an example class with class constructor
+class Ogre {
+}
+
+2. Give an example of instantiation of an Ogre object
+
+
+3. Provide a setter for positioning
+Ogre = new Enemy (100,100);
+
+4. Provide an example of using an ogre's move method
+Scanner compass = new Scanner(System.in);
+movement = compass.nextLine().trim().toLowerCase();
+
+5. Provide an example array of 3 ogres.
+static int ogre1x =6, ogre1y =6, ogre2x = 7, ogre2y = 7, ogre3x =8, ogre3y =8;
+
+static void ogre () {
+board[ogre1x][ogre1y] = 'O';
+board[ogre2x][ogre2y] = 'O';
+board[ogre3x][ogre3y] = 'O';
+        for (int i = 0; i <= board[0].length - 1; i++) {
+            for (int j = 0; j <= board[1].length - 1; j++) {
+                if (j < board[1].length - 1) {
+                    if (board[i][j] != '@' && board[i][j] != 'O') {
+                        System.out.print(".");
+                    } else {
+                        System.out.print(board[i][j]);
+                    }
+                }
