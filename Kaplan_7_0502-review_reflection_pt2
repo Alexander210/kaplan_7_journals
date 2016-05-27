@@ -15,7 +15,7 @@ array?
 
 
 What is the syntax for a while loop?
-while(right == false && counter > 0)
+while(right == false && counter > 0);
 
 Why use while loops in your game?
 So it can repeat the same action if it's needed.
