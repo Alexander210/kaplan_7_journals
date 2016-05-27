@@ -1,0 +1,12 @@
+Write a Java method to return the cubed value of some number.
+
+
+Write an Arduino function to return the cubed value of some number.
+
+
+Create the class, an object, and class constructor for class student
+public static int studentx = 5;
+public static int studenty = 5;
+
+Describe - if we were to continue with Arduino - what would you create?
+I would create a machine that could act like a voice changer when you use it with a microphone.
